@@ -51,11 +51,14 @@ Implement and compare four regression models:
 Evaluate models using R² score, Adjusted R², MAE, MSE, and RMSE.
 
 
-In collaboration with https://github.com/HackerDoggo101
 
 ## 3️⃣ Deployment:
 
 Integrate the best-performing model into a user-friendly application.
 
 Allow stakeholders to input diamond attributes and get real-time price predictions.
+
+
+### In collaboration with https://github.com/HackerDoggo101
+
 
